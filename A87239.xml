@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honourable the Lord Inchiqvin and other the commanders in Munster, to His Majestie expressing the causes and reasons of their not holding the cessation any longer with the rebels; with their desire intimated to His Majestie, that he would be pleased to renounce any treatie with the rebels any longer, and that he would againe proclaime them rebels, and would now comply with his Parliament, and make a peace with them. With several other letters from the said Lo. Inchiquin and other the commanders in Munster in Ireland to severall other their friends here in England, advising them of their proceedings, with severall motives and reasons to perswade them also to returne unto their former charges in Ireland, and to joyne with them to oppose the said rebels, and for to vindicate with them therein their obligation unto religon, the preservation of that kingdome, and the honour of the English nation. Published by authoritie.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87239</idno>
+            <idno type="STC">Wing I131</idno>
+            <idno type="STC">Thomason E8_37</idno>
+            <idno type="STC">ESTC R18278</idno>
+            <idno type="EEBO-CITATION">99860377</idno>
+            <idno type="PROQUEST">99860377</idno>
+            <idno type="VID">112497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honourable the Lord Inchiqvin and other the commanders in Munster, to His Majestie expressing the causes and reasons of their not holding the cessation any longer with the rebels; with their desire intimated to His Majestie, that he would be pleased to renounce any treatie with the rebels any longer, and that he would againe proclaime them rebels, and would now comply with his Parliament, and make a peace with them. With several other letters from the said Lo. Inchiquin and other the commanders in Munster in Ireland to severall other their friends here in England, advising them of their proceedings, with severall motives and reasons to perswade them also to returne unto their former charges in Ireland, and to joyne with them to oppose the said rebels, and for to vindicate with them therein their obligation unto religon, the preservation of that kingdome, and the honour of the English nation. Published by authoritie.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>by George Miller,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112497:1"/>
+            <pb facs="tcp:112497:1" rendition="simple:additions"/>
+            <p>A LETTER From the Right Honourable the LORD INCHIQVIN And other the Commanders in <hi>Munster,</hi> To His Majeſtie</p>
+            <p>Expreſsing the Cauſes and Reaſons of their not holding the Ceſſation any longer with the Rebels; With their deſire intimated to his Majeſtie, that he would be pleaſed to renounce any Treatie with the Rebels any longer, and that he would againe proclaime them Rebels, and would now comply with his Parliament, and make a Peace with them.</p>
+            <p>With ſeverall other Letters from the ſaid Lo. <hi>Inchiquin</hi> and other the Commanders in <hi>Munster</hi> in <hi>Ireland</hi> to ſeverall other their Friends here in <hi>England,</hi> adviſing them of their Proceedings, with ſeverall Motives and Reaſons to per<g ref="char:EOLhyphen"/>ſwade them alſo to returne unto their former Charges in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and to joyne with them to oppoſe the ſaid Rebels, and for to vindicate with them therein their Obliga<g ref="char:EOLhyphen"/>tion unto Religion, the Preſervation of that Kingdome, and the honour of the <hi>Engliſh Nation.</hi>
+            </p>
+            <p>Publiſhed by Authoritie.</p>
+            <p>Printed at <hi>London</hi> by <hi>George Miller.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112497:2"/>
+            <pb n="1" facs="tcp:112497:2"/>
+            <head>A Copie of a Letter to his Majeſtie, from the Lord <hi>Inchiquin.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your moſt excellent Majeſtie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E your Majeſties moſt humble and Loyall Subjects the Proteſtants of the Province of <hi>Munſter</hi> doe with all humility acknowledge your Majeſties ſpeciall care to<g ref="char:EOLhyphen"/>wards our preſervation, and wee ſhould eſteeme our ſelves guiltie of two high an ingratitude if we ſhould not diſcharge our duties to God, and your ſacred Ma<g ref="char:EOLhyphen"/>jeſtie, by acquainting you that no peace can be concluded with the Iriſh Rebells; which will not bring unto your Majeſtie and the Eng<g ref="char:EOLhyphen"/>liſh in generall, a farre greater prejudice then the ſhew of a peace here will bring us an advantage; and ſince your Majeſtie hath ſhewed us ſo high a degree of your pious care in all things that might take from our afflictions as our Declaration doth manifeſt to the world; thoſe acti<g ref="char:EOLhyphen"/>ons ſhew ſo piouſly in your Majeſtie that you have entruſted us, and makes us humbly beg your Majeſtie, that you would not ſo much re<g ref="char:EOLhyphen"/>gard ſo inconſiderable a handfull of people as we are; as to purchaſe but a ſeeming ſecuritie by leaving the Proteſtant Religion in all likeli<g ref="char:EOLhyphen"/>hood to be extirpated, and your Majeſtie obnoxious to the loſſe of this your Kingdome. Indeed it is too truly called a ſeeming ſecuritie, as in our Declaration which we humbly preſent unto your Majeſtie doth largely and plainly appeare, as alſo with how much reaſon we have ta<g ref="char:EOLhyphen"/>ken up armes, to defend our Religion, lives, and your Majeſties Inter<g ref="char:EOLhyphen"/>eſts, and we firmely hope that our infinite wrongs and miſeries will be a ſufficient motive and riſe for your Majeſtie to ſend unto the Parlia<g ref="char:EOLhyphen"/>ment for the procuring of a peace in <hi>England,</hi> without which we muſt
+<pb n="2" facs="tcp:112497:3"/>be (as ſpeedily) as unavoidably ruin'd, and, the Proteſtant Religion quite rooted out of this Kingdome; We have likewiſe ſent our humble deſires to the ſame purpoſe unto the Parliament, with a ſtrong beliefe that both your Majeſtie and they will ſo ſeriouſly conſider the juſtneſſe and neceſſity of the Iriſh war, that it will wringe the ſword out of both your hands, and imploy thoſe armies (which are likely to be de<g ref="char:EOLhyphen"/>ſtructive to the Proteſtant Religion) for the ſuppreſſing of thoſe blou<g ref="char:EOLhyphen"/>dy enemies of the Goſpell; and truly when we conſider how corre<g ref="char:EOLhyphen"/>ſpondent this bleſſed motion is with the goodneſſe of your Majeſties owne inclination: We doe not deſpaire but that God which brings the greateſt things to paſſe by the weakeſt meanes, may through our great neceſſities and humble prayers, reſtore <hi>England</hi> to that juſt Peace which it hath been ſo long deprived of. But if the judge<g ref="char:EOLhyphen"/>ments of the Almighty are not all falne upon that Kingdome, and that the juſt quarrell to this nation, which would be farre more glorious to the Engliſh armies, then the wars there, is not a ſufficient power to produce our agreement between your Majeſtie and the Parliament. We doe moſt humbly beſeech your Majeſtie not to give care to any that ſhall ſtrive to blemiſh the Integritie of our proceedings, ſince we take God to witneſſe we aime at nothing but Gods glory, your Majeſties ho<g ref="char:EOLhyphen"/>nour, and the ſafetie of the Engliſh Nation.</p>
+            <p>And that the world may ſee that your Majeſtie beleeves us to be (what really we are) we humbly beg your Majeſtie, as we have like<g ref="char:EOLhyphen"/>wiſe done the Parliament to ſend us what ſupplies of Men, Armes and Ammunition your ſacred Majeſtie thinkes fit for a people, which value not their lives and fortunes, where your Majeſties honour is concerned, and that we may die as perfect Martyrs in the opinion of men, as we are certaine all thoſe that ſuffer in this cauſe will be in the eye of God; that your ſacred Majeſtie would be pleaſed to proclaime againe the Iriſh to be rebels, and not pardon thoſe who have committed ſo many barbarous crimes, that they are as farre above deſcription, as they are ſhort of honeſtie, nay, more publiquely, profeſſe they had your Ma<g ref="char:EOLhyphen"/>jeſties Commiſſion for what they did: The true ſence of this divelliſh aſpertion caſt upon your Majeſtie, with all thoſe other reaſons, which we have ſet down in our Declaration, makes us reſolve to die a thou<g ref="char:EOLhyphen"/>ſand deaths rather then to condeſcend to any peace with theſe perfidi<g ref="char:EOLhyphen"/>ous Rebels; and ſince death is a tribute we muſt all pay, who will ap<g ref="char:EOLhyphen"/>prehend the payment of it ſomewhat the eaſier to purchaſe by it a
+<pb n="3" facs="tcp:112497:3"/>Kingdome as full of glory as this is now of miſery to all honeſt men, neither is this onely the reſolution of all the moſt conſiderable men amongſt us, but of all in generall; for our gracious God hath ſo inſpired the hearts of all the Commonaltie, that they have vowed never to de<g ref="char:EOLhyphen"/>ſert the cauſe that is ſo viſibly God Almighties, and we beſeech the Almightie ſo to direct your ſacred Majeſtie, that our great miſeries may through your Majeſties pious furtherance beget that bleſſed peace in <hi>England,</hi> which is ſo zealouſly praid for by</p>
+            <closer>
+               <signed>Your Majeſties moſt humble, moſt obe<g ref="char:EOLhyphen"/>dient, and moſt loyall Subjects, <hi>Inchiquin. Broughill. Tho. Searle. Fenton. Percy. Smith. Will. Brockett.</hi> Agm. Muſchampt.</signed>
+               <dateline>
+                  <hi>Corke,</hi> 
+                  <date>17. <hi>July,</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copie of a Letter to Coll. <hi>Nicholas Mynn.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>SOme Councellors about the King have prevailed with him to make ſuch an agreement with the Rebels here as leaves the intereſt he now has in their power, whereof we find they meane to make up for the Extirpation of the Engliſh Nation and Proteſtant Religion out of this Kingdome: and this being diſcovered unto us by certaine and un<g ref="char:EOLhyphen"/>doubted intelligence, we have given notice thereof to King and Parlia<g ref="char:EOLhyphen"/>ment, whoſe Aſſiſtance we have craved for our owne defence, and the meane time we have turned out the Iriſh, who we know were the Rebells confederates, now we doubt the King will not approve of what we have done, becauſe the papiſticall faction about him will oppoſe us, but we are confident the Parliament will ſend us great ſupplies to follow the warre againſt the Iriſh, wherefore, and ſeeing our cauſe is ſo good, we are hopefull as many forces as went from us will come to us forth with, and you I muſt deſire to come with your whole Regiments to <hi>Milford</hi> Haven, where you may recrewt your Regiment and bring them away in the Parliaments ſhips, and that you may not ſcruple at this action, we have ſent you our Declaration,
+<pb n="4" facs="tcp:112497:4"/>which will ſhew open the realityes of our intentions. Then for incou<g ref="char:EOLhyphen"/>ragement for the Officers and Souldiers, I can aſſure you to have all arrears allowed in adventures, and that we ſhall have very good pay for the time to come, I am ſo confident of your coming that I have writ to the Parliament to make you Major Generall of the forces that ſhall be now on foote here, which I beleeve will be no leſſe then 10000 horſe and foote, we have already 3000 of our own beſides the expectation of my owne Regiments and yours; So that if they ſend but 2 or 3000 forth of England, and order for the like number of Scots to come by ſea hither we ſhall make up that number. I have likewiſe ſent to the Parliament to get a ſtipend ſetled upon you as Governour of (Halboling) which I am confident will be done, for that I hope theſe inducements calling you to a cauſe of comfortable, as we may terme it, Gods owne cauſe, that will make all ſpeed unto us, in expectation whereof I remaine</p>
+            <closer>
+               <signed>Your very affectionate Friend and ſervant, <hi>Inchiquin.</hi>
+               </signed>
+               <dateline>
+                  <hi>Cork</hi> 
+                  <date>20<hi rend="sup">th</hi> 
+                     <hi>Iuly,</hi> 1644,</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copie of a Letter to Lievtenant Coll. <hi>Saintleger.</hi>
+            </head>
+            <opener>
+               <salute>Deare Brother.</salute>
+            </opener>
+            <p>VVE find that his Majeſty is ſtrangely beguiled by the Iriſh re<g ref="char:EOLhyphen"/>bells, who making great and faire promiſes unto him, have gained ſuch truſt as that we ſee the Kingdome, ſave what the Scots have, is to be left in their power, whereof we know moſt certainly, they meane to make ſuch uſe as that no Engliſh (if Proteſtants) ſhall be left therein, for they reſolve to leave no profeſſors of that Religion; But their wickedneſſe will not ſtop there neither, for ſeeing the King of England unable to give them aſſiſtance againſt the Scots; they have imployed agents abroad to treat with forraigne Princes, and to give aſſurance unto him that will undertake to ſupply them with mo<g ref="char:EOLhyphen"/>ney and utenſils of warre, that they will become his ſubjects; when we were ſufficiently aſſured of this, we reſolved to reſume our armes and rather to dye gloriouſly, then to live miferably; But although we
+<pb n="5" facs="tcp:112497:4"/>know theſe actions of ours are effectuall, condueing to his Majeſties ſervice; Yet we feare the inſtruments that gained favour for the Iriſh, will have power to poſſeſſe his Majeſtie with an ill opinion of our pro<g ref="char:EOLhyphen"/>ceedings, becauſe we receive aſſiſtance from the Parliament of Eng<g ref="char:EOLhyphen"/>land, notwithſtanding (knowing the goodneſſe of his Majeſties own diſpoſition, and hoping for Gods aſſiſtance to make him apprehenſive of our reall love to him) we have preſumed to write unto him, ſigni<g ref="char:EOLhyphen"/>fying how undoubtedly our Religion had bin extinguiſhed, and his Kingdome loſt, if we had not prevented it, and deſiring that his Ma<g ref="char:EOLhyphen"/>jeſty would not only approve of the Parliaments ſending us ſupplyes for the following of this warre againſt the perfidious Iriſh rebells; but that he would gratiouſly reflect on us with what aſſiſtance his conditi<g ref="char:EOLhyphen"/>on will permit, and proclaiming the Iriſh Rebels; This if his Ma<g ref="char:EOLhyphen"/>jeſtie approve of may happily be a good recourſe for ſuch a treatie to be had betweene him and the Parliament, as may produce a happy Ac<g ref="char:EOLhyphen"/>commodation, which may give them both leave to imploy the Armies now deſtructive to <hi>England</hi> againſt theſe malicious enemies of our Re<g ref="char:EOLhyphen"/>ligion, and moſt dangerous enemies of his; but if he doe not, our Con<g ref="char:EOLhyphen"/>ſciences beare witneſſe we intend nothing but loyaltie to him, and we hope this will appeare when they ſee the grounds of our proceedings, which we have partly ſet forth in a Declaration, though we have left out things that we thought might diſpleaſe his Majeſtie, who we know cannot chuſe but extend a gracious eye of favour towards us, when things are come a little more to light, and that the Villaines of thoſe Iriſh now ſmiled on ſhall be diſcovered; In the meane time, I pray you Brother to conſider, who we fight againſt, namely Papiſts and Rebels, and that it is a happineſſe to be imployed in ſuch a Quarrell, ra<g ref="char:EOLhyphen"/>ther then againſt Proteſtants, whatever their Loyalties be, we are ſure we fight neither againſt the Kings Perſon nor Lawes; neither againſt his profit; but you are not ſure there but that you fight againſt the two laſt, neither doe you know but that you fight againſt Religion, which Implicitly is againſt God, and that ſure you will confeſſe to be more then doing the firſt. Wherefore I beſeech you to get away hi<g ref="char:EOLhyphen"/>ther as ſoone as you can; And get what Officers and Souldiers, eſpe<g ref="char:EOLhyphen"/>cially <hi>W. Kingsmill</hi> to come with you; the beſt way for you to come by, will be to come to <hi>Milford</hi> Haven, where the Parliament ſhipping will take you in, and tranſport you hither, with what horſe or foot, you can get; There you will have good pay, halſe your Arreares in
+<pb n="6" facs="tcp:112497:5"/>Adventures; and if God proſper our deſignes we ſhall ſurely poſſeſſe the eſtates of our enemies, with the comfort of having all our neigh<g ref="char:EOLhyphen"/>bours <hi>Engliſh</hi> and Proteſtants. Your Mother hath written to you car<g ref="char:EOLhyphen"/>neſtly deſiring your repaire hither, the which ſhe doth with teares of<g ref="char:EOLhyphen"/>ten pray that ſhe may ſee; God put it into your heart to obey her therein, which would exceedingly rejoyce</p>
+            <closer>
+               <signed>Your moſt affectionate Brother and Servant, <hi>Inchiquin,</hi>
+               </signed>
+               <dateline>
+                  <hi>Corke,</hi> 
+                  <date>21. <hi>July,</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copie of a Letter from the right honourable the Lord Baron of <hi>Inchiquin</hi> to Colonell <hi>William Iephſon</hi> the Governour of <hi>Portſmouth.</hi>
+            </head>
+            <p>ALthough I have been earneſt in proſecution of all the Commands come unto me from his Majeſtie; yet I was ever as induſtrious for the perſervation of the <hi>Engliſh</hi> here, and the Proteſtant Religion, as my weake abilities would give me leave, and now that I perceive his Majeſtie to be ſo deluded by a Papiſticall Councell, as that his Prore<g ref="char:EOLhyphen"/>ſtant people are like to be all extirpated, and our Religion extinguiſhed; I confeſſe it is no longer my dutie to execute thoſe Commands, know<g ref="char:EOLhyphen"/>ing them to proceed from the advice of thoſe, who expoſe Religion and the Common-wealth to ſhipwracke, under pretence of advancing his Majeſties ſervice, whilſt indeed they doe but contrive their owne deliverance from the hand of juſtice: The Bearer will tell you more of this, and of my reſolutions to uſe all endeavours to proſecute the warre againſt the Rebels in <hi>Ireland,</hi> and croſſe thoſe who are more miſchievous (then any Rebels can be) in <hi>England;</hi> and if the Parlia<g ref="char:EOLhyphen"/>ment doe ſpeedily ſupply us, I am very hopefull (with Gods aſſiſtance) to put the worke here ſuddainly into a good forwardneſſe, for I am conſident my Brother <hi>Harry</hi> will (if he can) deliver <hi>Wareham</hi> againe into the hands of the Parliament, and will come away with my whole Regiment hither, when you ſend Ships to fetch him, which I thinke will be greatly advantageous to them there, and us here,</p>
+            <pb n="7" facs="tcp:112497:5"/>
+            <p>If notwithſtanding my new Profeſſions the Parliament ſhould di<g ref="char:EOLhyphen"/>ſtruſt me, becauſe it is true, I have ſerved the King with all my power according to his owne commands, I ſhall in the firſt place let you know, that I forſake a plentifull fortune, for the good of this Cauſe. And then I ſhall deſire you to ſay only to them that (if the placing of another perſon in my roome be thought an advantage for the proſecu<g ref="char:EOLhyphen"/>tion of the warre,) I ſhall be well-pleaſed with it; and doe moſt ear<g ref="char:EOLhyphen"/>neſtly defire it; for truly no preferment or proſit can be ſo pleaſing to me, as to ſee this warre followed with effect againſt the Iriſh Rebels.</p>
+            <p>I found that having the diſpoſall of what money we had here, I loſt the favour of many, becauſe I could not comply with their particular deſires, wherefore if I ſhould be thought fit to command againe, I would by no meanes meddle with that taske, and ſhall in that caſe pray the Houſes to ſend one or more Commiſſioners to ſee the carri<g ref="char:EOLhyphen"/>ages of affaires, and to disburſe the treaſure as ſhall be requiſite. This Courſe I conceive will give much ſatisfaction both to the Parliament and us, to them in regard of the aſſurance they ſhall have that the mo<g ref="char:EOLhyphen"/>ney is imployed to the beſt advantage, and that they ſhall have com<g ref="char:EOLhyphen"/>plaint of none but reall wants; to us, becauſe we ſhall then expect to be better ſupplyed then otherwiſe.</p>
+            <p>Another thing that I deſire you would offer to the Honourable Hou<g ref="char:EOLhyphen"/>ſes is, that they would take the poore <hi>Engliſh</hi> here into their conſide<g ref="char:EOLhyphen"/>ration, and to take a courſe for their ſatisfaction, concerning thoſe debts due unto them from the Army, which I conceive may be done out of the Houſes and Lands of the expulſed inhabitants, as if their mo<g ref="char:EOLhyphen"/>ney had been given upon adventure for them; I could write a volumne of things that would cauſe your admiration, as they have done my Al<g ref="char:EOLhyphen"/>teration from the courſe I was in, but I know you have been told ſome of them by your Wife and <hi>P.S.</hi> and others you will heare from the bearer; wherefore I will now ſay no more, but that I am</p>
+            <closer>
+               <signed>Your affectionate Friend and Servant, <hi>Inchiquin.</hi>
+               </signed>
+               <dateline>
+                  <hi>Cork</hi> 
+                  <date>20. <hi>July.</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:112497:6"/>
+            <head>A Copie of a Letter to Sir <hi>I. Powlet</hi> from the Lord <hi>Inchiquin.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>AS I muſt confeſſe I had alwaies great inducements to love your per<g ref="char:EOLhyphen"/>ſon, ſo muſt I acknowledge an obligation now, both to increaſe that affection, and profeſſe my ſelfe infinitely your ſervant, for I have it from many good hands, that you were noble, juſt and friendly, zealous in defence of my honour, being wounded very much by my Lord of <hi>Corks</hi> traducing me for betraying his Townes unto the Iriſh rebells. Sir I could wiſh now that I had tould you ſomewhat more then I did of that buſineſſe, which truly I forbeare, becauſe I thought it would be deemed vaine glory in me, for if ever I did any thing towards the de<g ref="char:EOLhyphen"/>fence of this Province againſt the Iriſh, this was that I had cauſe to bragge off, whereof I ſhall take you for a witneſſe; for you know that at the time when the enemy came to <hi>Liſmore</hi> we had no proviſions in any of our ſtores; and a weeke before their coming (that falſe friend) my uncle <hi>Edmond</hi> came unto me to let me know, that the Iriſh Army were advancing towards our ports, and that if I would give way to their taking of <hi>Cappoquin</hi> and <hi>Liſmore</hi> they would ſpare the reſt of our quarters, which he ſaid they would otherwiſe burne and deſtroy, but before he delivered me this meſſage from my Lord of <hi>Muskerie,</hi> he made me promiſe him ſecrecy, which as I made good, ſo I made uſe of what he tould me for my owne advantage, for preſently I ſent all the proviſion I could get in <hi>Corke</hi> and <hi>Yawhall</hi> with all haſt to <hi>Cappo<g ref="char:EOLhyphen"/>quin,</hi> and with it 400 commanded men, <hi>Liſmore</hi> was of it ſelfe well provided, but if it had not, you know I was not then able to helpe it, at that time I communicated to your ſelfe and the Officers the intelli<g ref="char:EOLhyphen"/>gence I received of the enemyes advancing, and after advice taken of what was fit to be done; we found our wants, and the ſcarcity that was in all places, would make it impoſſible for us to keepe the field with our. Armie, part whereof, to the number of 1200 were with Colonell <hi>Mynn</hi> in the Weſt, where they had no foode, but what corne they cut, burnt and dreſt the ſame day to eate, ſo that all we were able to doe was only to draw 1600 foote and 250 horſe to <hi>Tallowe,</hi> out of the ſeverall garriſons, for whom I had not one dayes victualls to march, they being onely on billets in their ſeverall quarters; when I found that this was all we could doe, then I bethought my ſelfe to make uſe
+<pb n="9" facs="tcp:112497:6"/>of the motion made unto me by my uncle, and whereas he (under pretence of giving me intelligence) went about to worke upon me, in hope to make me an inſtrument to betray the Engliſh, I did in the like manner indeavour to make uſe of him, for the overthrowing the rebells deſigne; Which with Gods aſſiſtance I did thus happily effect.</p>
+            <p>After I had taken advice with you and found that we could not drawe the weſterne forces unto us, and that without them there was no fighting; I ſeemed to him to have put on a reſolution with your advices preſently to gather all our forces together, and tould him of a great ſtrength that we were able to make; letting of him know that I was glad the Iriſh were comming into a trap to us, for that I knew there would none of them get off againe, and then to fetch him about, I told him that I was ſorry that my Lord of <hi>Muskery</hi> was not more reall in his profeſſions to the King, which I perceived were all but diſſilmuations, or that otherwiſe he would not now preſſe ſo hard upon our quarters, being he expected a ceſſation ſoone after, and being that then it was profeſſed by them that they would goe in<g ref="char:EOLhyphen"/>to <hi>England</hi> with forces, ſo ſoone as that was agreed on, I marvailed that they would be ſo much the Kings and their owne enemies as to ſeeke the deſtruction of thoſe people (meaning theirs) whoſe aſſiſtance I did ſoone expect in his Majeſties ſervice, which I tould him was a thing I would vvillingly avoid, if I could, and then finding by him that they were reſolved to come, notwithſtanding all my threats, I tould him that I would not draw our forces together till ſuch a day, if they aimed at nothing but my Lord of <hi>Corks</hi> townes, for that I cared not if they tooke them, and that therefore I had ſo ordered it that the for<g ref="char:EOLhyphen"/>ces ſhould be there no ſooner to hinder them, which would be time enough for them to take them in; But ſaid that if they tooke them not by that day, that then they muſt reſolve to retreate, or that other<g ref="char:EOLhyphen"/>wiſe I muſt fall upon them, this they thought was enough, and there<g ref="char:EOLhyphen"/>fore they promiſed that they would retreat that day, whether they tooke them or not, though with as little intention to performe as I expected. Now that I might ſeeme unto him to be able to doe this, I preſently made all the noiſe I could of my reſolution to fight with the enemies, and wrote unto all the Garriſons to let the inhabitants know that if they did not make ſome ſhift to furniſh the Souldiers knapſacks for the field, that they were all loſt, whereupon they furni<g ref="char:EOLhyphen"/>ſhed us with five dayes proviſion, ſo that you and I made a ſhift with
+<pb n="10" facs="tcp:112497:7"/>the before mentioned number, to get thither by the day that I threat<g ref="char:EOLhyphen"/>ned to fight with them, if they were not gone, which you know was the ſooneſt that I could be there; you being a witneſſe of the dili<g ref="char:EOLhyphen"/>gence I uſed to get the men into the field, and certainly if I could have come thither ſooner, I would have threatned the enemy accordingly, but when we were come to <hi>Tallow,</hi> the rebells belike having notice of our weakneſs continued the ſeige notwithſtanding the promiſes, which I perceiving, and being fearefull they might take <hi>Liſmore,</hi> offered un<g ref="char:EOLhyphen"/>to your ſelfe, Lieutenant Colonell <hi>Appleyard</hi> and the Officers, to fall upon them if you ſhould adviſe, whereupon you all adviſed to ſend preſently for Colonell <hi>Mynn,</hi> and not to attempt any thing till he came. This delay, after I had threatned to fight with them, I I was fearefull would make the enemy contemne us, and thinking that it was very likely that before Colonell <hi>Mynn</hi> (who could not in leſſe then five dayes time be with us) ſhould come that the place muſt needs have bin loſt, I bethought my ſelfe to ſend <hi>Iack fitz Gerald</hi> private<g ref="char:EOLhyphen"/>ly to them, to let them know that they were very happy in that <hi>Mynn</hi> was not come yet unto me, and that I had received letters from him intimating his being on his march towards me, whereof I gave them notice out of my deſire to preſerve them whom we thought would ſoone become his Majeſties Subjects and ſervants, and therefore let them know that if they did not goe away the next day, that I muſt of neceſſity fall upon them, but all I could doe could not divert them from their owne ends, till my Lord of <hi>Cork</hi> landed and brought me a Letter from the King commanding me to give credit to what he ſhould tell mee, who told me that it was his Majeſties Com<g ref="char:EOLhyphen"/>mand that I ſhould forward the Coſſation by all the meanes? could, whereupon I deſired a Conference with my Lord of <hi>Muskerie,</hi> and you know how my Lord of <hi>Corke</hi> delivered the Meſſage ſent unto me there before my Lord of <hi>Muskerie,</hi> and did aſſure my Lord that if he would with-draw the ſiege, he knew his Majeſtie would take it well, which my Lord (thinking that I would have fallen upon them the next day) aſſented unto, now let the world judge whether I did intend to give up my Lord of <hi>Corks</hi> Towns, they knowing our wants, our condition, our ſtrength, <hi>Nick Mynns</hi> being in the Weſt unable to come to us, my offering daily to fall on, if a Councell of warre ſhould adviſe it, and all other circumſtances to be as I have related, and let them alſo that know how we were, ſay if it
+<pb n="11" facs="tcp:112497:7"/>had not been eaſie for their 3000 foot, and 800 horſe to have taken all our Quarters, if I had not by this meanes prevented it, by giving them occaſion to ſtay where I had provided againſt their attempts, whereas if they had marched on in to our Quarters, I could never make head againſt them, knowing the Countrey to be readie to riſe and afford them their aſſiſtance againſt us, and that we could never bring our Army into a bodie to have given them Battell, ſo that truly I never was ſo happy in any thing concerning this warre, as in that diverſion, which (by my Unkle <hi>Edmonds</hi> and my Lord of <hi>Muskeries</hi> ambuſh) it pleaſed God I gave them, and thereby preſerved all the poore <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> that were abroad in our quarters: and Sin for confirmation here<g ref="char:EOLhyphen"/>of you know we were frequently told that it was a common report amongſt the <hi>Iriſh</hi> that I had fool'd my Lord of <hi>Muskerie,</hi> and he them; then let all the world thinke whether I could be ſo fooliſh as to give way that ſo many of them ſhould know ſuch a ſecret, if I had not my own ends in it, or if thoſe ends had been to favour them, whether that favour muſt not proceed from hope of reward, of effection to their par<g ref="char:EOLhyphen"/>tie; the firſt of theſe I am confident no enemis will alleage againſt me; And I hope my Actions have never given Cauſe to ſuſpect, me for the laſt; perhaps my Lord of <hi>Corke</hi> will ſay I did it out of malice to him: to which I anſwere, that it were ſtrange I ſhould put my ſafetie into the hands of the <hi>Iriſh,</hi> onely to doe him a prejudice, who I knew durſt not affront me, not any man that durſt ſtrike a knowne Coward unleſſe I did intend to become one of the <hi>Iriſh</hi> partie, which ſure now I ſhall not be ſuſpected for, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing I have put on a reſolution to follow the warre againſt the <hi>Iriſhe</hi> whereunto my ſelfe, and the reſt of the Offi<g ref="char:EOLhyphen"/>cers here have been induced by the certaine knowledge of their de<g ref="char:EOLhyphen"/>ſignes, being no loſſe (then to extirpate all the Proteſtant and their Religion, and give<g ref="char:punc">▪</g> this Kingdoms into the hands of another Prince, who they thinke betten able to aſſiſt them againſt the Parliament then the King of <hi>England</hi> is; Sir, we have made this knowne to the King and the world in a large Declaration; but we feare that the ſame inſtruments that gained ſuch truſt for the <hi>Iriſh</hi> (as that the King condeſcended to leave this in their power, ſuppoſing them to be more faithfull to him then that they would doe any ſuch thing) will alſo prevaile to make him diſcredit our Declaration, and diſapprove of our proceedings, which yet ſhall appeare to be effectuall for his ſer<g ref="char:EOLhyphen"/>vice: But becauſe we knew that his Majeſtie (by reaſon of the Parlia<g ref="char:EOLhyphen"/>ments
+<pb n="12" facs="tcp:112497:8"/>ſtrength at ſea could not aſſiſt us,) we have applyed our ſelves to the Parliament, alſo deſiring their Aſſiſtance againſt the <hi>Iriſh,</hi> and have beſought both King and Parliament that they would (from the knowledge of their treacheries) take a riſe to beget ſuch an Accom<g ref="char:EOLhyphen"/>modation, as that by their joynt conſent this warre might be followed, and that in <hi>England</hi> may ſurceaſe. I know not what effects this may produce for the good of that Kingdome. But I know we ſhall have large ſupplies here, and good pay for 10000. horſe and foot to keepe the field, and that it may be an incouragement for our old friends to come over to us againe, the Parliament doe undertake to pay the Ar<g ref="char:EOLhyphen"/>reares due unto all the Officers and us in ſo much Adventure; beſides which there is no doubt (if God make us vanquiſhers) but deſerving 01 men will have eſtates conferred on them in the end of this, as it was in the end of the laſt warres (I meane <hi>Tyrones</hi> warres) of <hi>Ireland;</hi> I ſhould thinke it a great happineſſe that I might have your Aſſiſtance in this buſineſſe, promiſing you that (if it lie in my power) your condi<g ref="char:EOLhyphen"/>tion ſhall be one of the Chiefe in the Armie; but I know your Noble<g ref="char:EOLhyphen"/>neſſe and Uprightneſſe to be ſuch as that I ſhall offer nothing as an in<g ref="char:EOLhyphen"/>ducement to you, but that here you may fight in a Cauſe which firſt is Gods owne, then that we fight againſt thoſe who are Papiſts and Re<g ref="char:EOLhyphen"/>bels, and who we know to be enemies to the King and our Religion: And laſtly, I would deſire you to conſider that if the King ſhould get the upper hand with the help of theſe men, whether it be likely that it will be in his power to eſtabliſh the Proteſtant Religion: if you think fit to come, you muſt not make knowne your Reſolution till you ſee how the King approves of our Declaration; But if that be not come to his hands, I would adviſe you to come without the knowledge of any (but ſuch as you thinke will come with you) to <hi>Milford</hi> Haven, where the Parliament ſhipping will receive you, and tranſport hi<g ref="char:EOLhyphen"/>ther any that deſire to come: I pray God direct you for the beſt, which is heartily wiſhed by, Sir,</p>
+            <closer>
+               <signed>Your moſt affectionate Friend and Servant, <hi>Inchiquin.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112497:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
